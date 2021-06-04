@@ -1,0 +1,12 @@
+# Project Public Identifier: joomla-official-websites
+project_id: 102
+api_token_env: CROWDIN_PERSONAL_TOKEN
+base_path: 
+base_url: "https://joomla.crowdin.com"
+
+preserve_hierarchy: true
+
+files:
+  - source: /Brochures/Joomla4/en-GB/joomla4-2021.idml
+    dest: 'Brochures/joomla4-2021.idml'
+    translation: /%locale%/joomla4-2021.idml
