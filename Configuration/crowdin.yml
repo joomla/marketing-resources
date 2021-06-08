@@ -1,4 +1,4 @@
-# Project Public Identifier: joomla-official-websites
+# Project Public Identifier: joomla-official-extensions
 project_id: 102
 api_token_env: CROWDIN_PERSONAL_TOKEN
 base_path: 
