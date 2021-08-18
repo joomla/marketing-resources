@@ -11,3 +11,8 @@ files:
     dest: 'Brochures/joomla4-2021.idml'
     translation: /Brochures/Joomla4/%locale%/joomla4-2021.idml
     type: idml
+    
+  - source: /Videos/Joomla4/en-GB/j4release.srt
+    dest: 'Videos/j4release.srt'
+    translation: /Videos/Joomla4/%locale%/j4release.srt
+    type: srt
