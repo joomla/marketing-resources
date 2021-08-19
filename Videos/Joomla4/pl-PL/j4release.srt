@@ -8,7 +8,8 @@ będzie rosnąć wraz z twoim biznesem.
 
 3
 00:00:12,080 --> 00:00:18,320
-
+Czym jest Joomla?
+Open Source CMS solidny, bezpieczny,
 
 4
 00:00:18,320 --> 00:00:25,039
@@ -41,15 +42,16 @@ Prędkość Joomla 4.
 
 11
 00:00:56,000 --> 00:01:00,800
-
+połącz się z systemami zewnętrznymi i wiele,
+wiele więcej.
 
 12
 00:01:00,800 --> 00:01:04,079
-
+Na co czekasz?
 
 13
 00:01:04,159 --> 00:01:12,159
-
+Zainstaluj już dziś i rozwijaj swoją przyszłość.
 
 14
 00:01:12,159 --> 00:01:15,840
