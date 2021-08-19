@@ -1,6 +1,7 @@
 1
 00:00:01,040 --> 00:00:08,639
-
+Joomla! 4 Świat nowych możliwości.
+Zbuduj piękną skalowalną stronę internetową, która
 
 2
 00:00:08,639 --> 00:00:12,000
@@ -18,31 +19,34 @@ Jakie korzyści przyniesie mi Joomla?
 
 5
 00:00:25,039 --> 00:00:28,080
-Prędkość Joomla 4.
+Szybkość Joomla 4.
 
 6
 00:00:28,240 --> 00:00:34,239
-
+SEO Joomla 4.
+Dostępność Joomla 4.
 
 7
 00:00:34,239 --> 00:00:40,559
-
+Bezpieczeństwo Joomla 4.
+Tok pracy Joomla 4.
 
 8
 00:00:40,559 --> 00:00:46,800
-
+E-maile w Joomla 4.
+Wyszukiwanie w Joomla 4.
 
 9
 00:00:46,800 --> 00:00:49,920
-
+Wygląd Joomla 4.
 
 10
 00:00:50,239 --> 00:00:56,000
-
+Mnóstwo zaawansowanych funkcji: dodatkowe pola, tok pracy, rejestracja użytkowników,
 
 11
 00:00:56,000 --> 00:01:00,800
-połącz się z systemami zewnętrznymi i wiele,
+integracja z systemami zewnętrznymi i wiele,
 wiele więcej.
 
 12
@@ -55,6 +59,6 @@ Zainstaluj już dziś i rozwijaj swoją przyszłość.
 
 14
 00:01:12,159 --> 00:01:15,840
-Joomla 4 Dla Wszystkich
+Joomla 4 dla wszystkich
 odwiedź www.joomla.org/4
 
