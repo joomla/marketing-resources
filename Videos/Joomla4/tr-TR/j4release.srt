@@ -1,56 +1,64 @@
 1
 00:00:01,040 --> 00:00:08,639
-
+Joomla! 4 Yeni bir olasılıklar dünyası.
+Güzel, ölçeklenebilir bir web sitesi oluşturun
 
 2
 00:00:08,639 --> 00:00:12,000
-
+işinizle birlikte büyüyecek.
 
 3
 00:00:12,080 --> 00:00:18,320
-
+Joomla nedir?
+Açık Kaynak CMS Sağlam, güvenli,
 
 4
 00:00:18,320 --> 00:00:25,039
-
+kullanımı kolay.
+Joomla 4 bana nasıl fayda sağlayacak?
 
 5
 00:00:25,039 --> 00:00:28,080
-
+Joomla 4 Hızlı.
 
 6
 00:00:28,240 --> 00:00:34,239
-
+Joomla 4 SEO.
+Joomla 4 Erişilebilirlik.
 
 7
 00:00:34,239 --> 00:00:40,559
-
+Joomla 4 Güvenlik.
+Joomla 4 İş Akışları.
 
 8
 00:00:40,559 --> 00:00:46,800
-
+Joomla 4 E-postalar.
+Joomla 4 Arama.
 
 9
 00:00:46,800 --> 00:00:49,920
-
+Joomla 4 Tasarım.
 
 10
 00:00:50,239 --> 00:00:56,000
-
+Özel alanlar, iş akışı, kullanıcı kaydı gibi birçok gelişmiş özellik,
 
 11
 00:00:56,000 --> 00:01:00,800
-
+harici sistemlere bağlanın ve birçok
+çok daha fazlası.
 
 12
 00:01:00,800 --> 00:01:04,079
-
+Ne için bekliyorsun?
 
 13
 00:01:04,159 --> 00:01:12,159
-
+Bugün yükleyin ve geleceğinizi büyütün.
 
 14
 00:01:12,159 --> 00:01:15,840
-
+Joomla 4 Tümü
+www.joomla.org/4 adresini ziyaret edin
 
