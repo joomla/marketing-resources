@@ -1,56 +1,64 @@
 1
 00:00:01,040 --> 00:00:08,639
-
+Joomla! 4 Um novo mundo de possibilidades.
+Construa um belo site escalável que
 
 2
 00:00:08,639 --> 00:00:12,000
-
+crescerá com o seu negócio.
 
 3
 00:00:12,080 --> 00:00:18,320
-
+O que é Joomla?
+Open Source CMS Robusto, seguro
 
 4
 00:00:18,320 --> 00:00:25,039
-
+fácil de usar.
+Como Joomla 4 me beneficiará?
 
 5
 00:00:25,039 --> 00:00:28,080
-
+Joomla 4 Velocidade.
 
 6
 00:00:28,240 --> 00:00:34,239
-
+Joomla 4 SEO.
+Joomla 4 Acessibilidade.
 
 7
 00:00:34,239 --> 00:00:40,559
-
+Joomla 4, Segurança.
+Joomla 4 Fluxo de serviços.
 
 8
 00:00:40,559 --> 00:00:46,800
-
+Joomla 4 E-mails.
+Joomla 4 Pesquisa.
 
 9
 00:00:46,800 --> 00:00:49,920
-
+Joomla 4. Design.
 
 10
 00:00:50,239 --> 00:00:56,000
-
+Muitos recursos avançados incluem campos personalizados, fluxo de trabalho, registro de usuários,
 
 11
 00:00:56,000 --> 00:01:00,800
-
+conectar a sistemas externos, e muito
+muito mais.
 
 12
 00:01:00,800 --> 00:01:04,079
-
+O que você está esperando?
 
 13
 00:01:04,159 --> 00:01:12,159
-
+Instale hoje e amplie seu futuro.
 
 14
 00:01:12,159 --> 00:01:15,840
-
+Joomla 4 All
+Visite www.joomla.org/4
 
