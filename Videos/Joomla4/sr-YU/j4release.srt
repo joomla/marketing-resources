@@ -1,56 +1,64 @@
 1
 00:00:01,040 --> 00:00:08,639
-
+Joomla! 4 Novi svet mogućnosti.
+Napravite prelepi skalabilan veb sajt koji
 
 2
 00:00:08,639 --> 00:00:12,000
-
+će rasti sa vašim poslovanjem.
 
 3
 00:00:12,080 --> 00:00:18,320
-
+Šta je Joomla?
+Open Source CMS snažan, siguran,
 
 4
 00:00:18,320 --> 00:00:25,039
-
+lak za korišćenje.
+Kako će Joomla 4 da ima koristi za mene?
 
 5
 00:00:25,039 --> 00:00:28,080
-
+Joomla 4 Brzina.
 
 6
 00:00:28,240 --> 00:00:34,239
-
+Joomla 4 SEO.
+Joomla 4 Pritupačnost.
 
 7
 00:00:34,239 --> 00:00:40,559
-
+Joomla 4 Bezbednost.
+Joomla 4 Tok rada.
 
 8
 00:00:40,559 --> 00:00:46,800
-
+Joomla 4 E-mail.
+Joomla 4 Pretraga.
 
 9
 00:00:46,800 --> 00:00:49,920
-
+Joomla 4 Dizajn.
 
 10
 00:00:50,239 --> 00:00:56,000
-
+Mnoge napredne funkcije uključuju prilagođena polja, tok posla, registraciju korisnika,
 
 11
 00:00:56,000 --> 00:01:00,800
-
+povezivanje sa spoljnim sistemima, i mnogo 
+mnogo više.
 
 12
 00:01:00,800 --> 00:01:04,079
-
+Šta čekaš?
 
 13
 00:01:04,159 --> 00:01:12,159
-
+Instalirajte danas i unapredite svoju budućnost.
 
 14
 00:01:12,159 --> 00:01:15,840
-
+Joomla 4 Svi
+posetite www.joomla.org/4
 
