@@ -1,6 +1,6 @@
 1
 00:00:01,040 --> 00:00:08,639
-Joomla! 4 Dunia baru kemungkinan.
+Joomla! 4 Dunia kemungkinan baru.
 Bangun situs yang dapat dikembangkan
 
 2
@@ -19,26 +19,26 @@ Apa manfaat Joomla 4 untuk saya?
 
 5
 00:00:25,039 --> 00:00:28,080
-Joomla 4 Kecepatan.
+Joomla 4 Speed.
 
 6
 00:00:28,240 --> 00:00:34,239
 Joomla 4 SEO.
-Joomla 4 Aksesibilitas.
+Joomla 4 Accessibility.
 
 7
 00:00:34,239 --> 00:00:40,559
-Joomla 4 Keamanan.
-Joomla 4 Alur Kerja.
+Joomla 4 Security.
+Joomla 4 Workflows.
 
 8
 00:00:40,559 --> 00:00:46,800
-Joomla 4 Email.
-Joomla 4 Penelusuran.
+Joomla 4 Emails.
+Joomla 4 Search.
 
 9
 00:00:46,800 --> 00:00:49,920
-Joomla 4 Desain.
+Joomla 4 Design.
 
 10
 00:00:50,239 --> 00:00:56,000
@@ -59,6 +59,6 @@ Pasang hari ini dan bangun masa depan Anda.
 
 14
 00:01:12,159 --> 00:01:15,840
-Joomla 4 Untuk Semua
+Joomla 4 All
 kunjungi www.joomla.org/4
 
